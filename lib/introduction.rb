@@ -4,7 +4,6 @@
 # in order to complete the rest of this course and be ready for the next course!
 name = "Harley"
 introduction = "Hi, my name is #{name}."
-language = "IDE"
 introduction_with_language = "Hi, my name is #{name} and I am learning to program in #{language}."
 introduction_with_language_optional = "Hi, my name is #{name} and I am learning to program in #{language}."
 
