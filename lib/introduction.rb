@@ -6,7 +6,7 @@ name = "Harley"
 introduction = "Hi, my name is #{name}."
 language = "IDE"
 introduction_with_language = "Hi, my name is #{name} and I am learning to program in #{language}."
-introduction_with_language_optional = 
+introduction_with_language_optional = "Hi, my name is #{name} and I am learning to program in #{language}."
 
 
 
