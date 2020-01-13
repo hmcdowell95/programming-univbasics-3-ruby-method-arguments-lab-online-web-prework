@@ -3,6 +3,7 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 name = "Harley"
+language = "Ruby"
 introduction = "Hi, my name is #{name}."
 introduction_with_language = "Hi, my name is #{name} and I am learning to program in #{language}."
 introduction_with_language_optional = "Hi, my name is #{name} and I am learning to program in #{language}."
